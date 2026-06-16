@@ -3,3 +3,4 @@ rumps
 PyInstaller
 py2app
 pyobjc-framework-Quartz
+zhconv
